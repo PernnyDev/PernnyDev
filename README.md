@@ -19,12 +19,16 @@
 
 <h2>Experiência</h2>
 
-<p>Tenho experiência em desenvolvimento de projetos na <em>Power Platform</em>, onde utilizei ferramentas como Power Apps, Power Automate e Power BI para trazer soluções de transformação digital. Além disso, possuo experiência em projetos, inspeção, produção e montagem em indústrias de processo e fabricação, especialmente no setor alimentício.</p>
+<p>Tenho experiência em desenvolvimento de projetos na <em>Power Platform</em>, onde utilizei ferramentas como Power Apps, Power Automate e Power BI para trazer soluções de transformação digital, utilizando metodologias ágeis com o SCRUM. Além disso, possuo experiência em projetos, inspeção, produção e montagem em indústrias de processo e fabricação, especialmente no setor alimentício.</p>
+
+<h2>Idiomas</h2>
+
+<p>Sou nativo brasileiro, portanto falo português, sou intermediário (B1) no inglês, escrevo, leio e comprendo parte do que dizem e estou aprimorando isso a cada dia, porém necessito do mais oportunidades e desafios com isso para poder crescer. Sou intermediário no espanhol também me comunico em espanhol, e até já dei treinamento.</p>
 
 <h2>Outras Habilidades e Interesses</h2>
 
-<p>Sou um profissional que possui uma grande habilidade de aprendizado rápido e facilmente me adapto a diferentes áreas. Sou curioso e multidisciplinar, sempre buscando adquirir novos conhecimentos e acompanhar as últimas tendências tecnológicas.</p>
+<p>Sou um profissional que possui uma grande habilidade de aprendizado rápido e facilmente me adapto a diferentes áreas. Sou curioso e multidisciplinar, sempre buscando adquirir novos conhecimentos e acompanhar as últimas tendências tecnológicas. Gosto muito de usar o GPT para potencializar minhas habilidades e conhecimentos.</p>
 
-<p>Sinta-se à vontade para entrar em contato comigo para oportunidades de colaboração e aprendizado!<a href="https://www.linkedin.com/in/vin%C3%ADcius-nascimento-ribeiro-57a29b136/">LinkedIn</a></p>
+<p>Sinta-se à vontade para entrar em contato comigo para oportunidades de colaboração e aprendizado! Meu <a href="https://www.linkedin.com/in/vin%C3%ADcius-nascimento-ribeiro-57a29b136/">LinkedIn</a></p>
 
 
