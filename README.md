@@ -16,7 +16,7 @@
   <img align="center" alt="Lurf-CSS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
   <img align="center" alt="Lurf-JavaScript" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Lurf-Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Lurf-PA" height="60" width="60" src="  https://static.wikia.nocookie.net/logopedia/images/4/44/Microsoft_Power_Apps_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200929195935">
+  <img align="center" alt="Lurf-PA" height="60" width="60" src="  https://static.wikia.nocookie.net/logopedia/images/4/44/Microsoft_Power_Apps_%282020%29.svg">
 
 
 </div>
