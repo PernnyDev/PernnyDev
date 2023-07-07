@@ -22,7 +22,7 @@
  <img align="center" alt="Pernny-Automate" height="60" width="60" src="https://powerapps.microsoft.com/images/application-logos/svg/powerbi.svg">
    <img align="center" alt="Pernny-BI" height="60" width="60" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powervirtualagents.svg">
     <img align="center" alt="Pernny-PVA" height="60" width="60" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerpages.svg">
-<img align="center" alt="Pernny-GPT" height="60" width="60" src="http://www.w3.org/2000/svg">
+
    
 
 
