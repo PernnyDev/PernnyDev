@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PernnyDev&theme=radical"/>
 </div>
 
-![Snake animation](https://github.com/PernnyDev/PernnyDev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lucasfariadev/lucasfariadev/blob/output/github-contribution-grid-snake.svg)
 
 ## Languages and tool
 
@@ -22,6 +22,15 @@
  <img align="center" alt="Pernny-Automate" height="60" width="60" src="https://powerapps.microsoft.com/images/application-logos/svg/powerbi.svg">
    <img align="center" alt="Pernny-BI" height="60" width="60" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powervirtualagents.svg">
     <img align="center" alt="Pernny-PVA" height="60" width="60" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerpages.svg">
+    <img align="center" alt="Pernny-Azure" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+ <img align="center" alt="Pernny-MySQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+<img align="center" alt="Pernny-Postg" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
+ <img align="center" alt="Pernny-VSCode" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
+  <img align="center" alt="Pernny-GitHub" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
+          <img align="center" alt="Pernny-Git" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
+
+         
+    
 
    
 
