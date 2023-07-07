@@ -1,10 +1,12 @@
-# Perfil  <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&langs_count=8&theme=radical](https://avatars.githubusercontent.com/u/137420040?v=4)"/>  
+# Geral
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-nascimento-ribeiro-57a29b136/">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&langs_count=8&theme=radical"/>
   </a>
 </div>
+
+![Snake animation](https://github.com/lucasfariadev/lucasfariadev/blob/output/github-contribution-grid-snake.svg)
 
 ## Languages and tool
 
