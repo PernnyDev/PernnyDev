@@ -16,6 +16,14 @@
   <img align="center" alt="Lurf-CSS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
   <img align="center" alt="Lurf-JavaScript" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Lurf-Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Lurf-Canva" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+    <img align="center" alt="Lurf-PowerApps" height="60" width="60" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerapps.svg">
+<img align="center" alt="Lurf-PowerApps" height="60" width="60" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerautomate.svg">
+ <img align="center" alt="Lurf-PowerApps" height="60" width="60" src="https://powerapps.microsoft.com/images/application-logos/svg/powerbi.svg">
+   <img align="center" alt="Lurf-PowerApps" height="60" width="60" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powervirtualagents.svg">
+    <img align="center" alt="Lurf-PowerApps" height="60" width="60" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerpages.svg">
+
+
 
 </div>
 
