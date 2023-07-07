@@ -1,9 +1,9 @@
 # Geral
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/vin%C3%ADcius-nascimento-ribeiro-57a29b136/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&langs_count=8&theme=radical"/>
-  </a>
+  <a href="[https://github.com/lucasfariadev](https://github.com/PernnyDev)">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PernnyDev&theme=radical"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PernnyDev&theme=radical"/>
 </div>
 
 ![Snake animation](https://github.com/lucasfariadev/lucasfariadev/blob/output/github-contribution-grid-snake.svg)
