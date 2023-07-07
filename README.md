@@ -16,16 +16,9 @@
   <img align="center" alt="Lurf-CSS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
   <img align="center" alt="Lurf-JavaScript" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Lurf-Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-</div>
+  <img align="center" alt="Lurf-PA" height="60" width="60" src="  https://static.wikia.nocookie.net/logopedia/images/4/44/Microsoft_Power_Apps_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200929195935">
 
-<div align="center">
-  <br>
-  <a href="vinicius_eng_mec@outlook.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/vin%C3%ADcius-nascimento-ribeiro-57a29b136/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+
 </div>
 
 <h1>Perfil</h1>
@@ -56,6 +49,15 @@
 <p>Sou um profissional que possui uma grande habilidade de aprendizado rápido e facilmente me adapto a diferentes áreas. Sou curioso e multidisciplinar, sempre buscando adquirir novos conhecimentos e acompanhar as últimas tendências tecnológicas. Gosto muito de usar o GPT para potencializar minhas habilidades e conhecimentos.</p>
 
 <p>Sinta-se à vontade para entrar em contato comigo para oportunidades de colaboração e aprendizado! Meu <a href="https://www.linkedin.com/in/vin%C3%ADcius-nascimento-ribeiro-57a29b136/">LinkedIn</a></p>
+<div align="center">
+  <br>
+  <a href="vinicius_eng_mec@outlook.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/vin%C3%ADcius-nascimento-ribeiro-57a29b136/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
 
 
 
