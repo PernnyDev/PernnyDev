@@ -51,10 +51,6 @@
 
 <p>Tenho experiência em desenvolvimento de projetos na <em>Power Platform</em>, onde utilizei ferramentas como Power Apps, Power Automate e Power BI para trazer soluções de transformação digital, utilizando metodologias ágeis com o SCRUM. Além disso, possuo experiência em projetos, inspeção, produção e montagem em indústrias de processo e fabricação, especialmente no setor alimentício.</p>
 
-<h2>Idiomas</h2>
-
-<p>Sou nativo brasileiro, portanto falo português, sou intermediário (B1) no inglês, escrevo, leio e comprendo parte do que dizem e estou aprimorando isso a cada dia, porém necessito do mais oportunidades e desafios com isso para poder crescer. Sou intermediário no espanhol também me comunico em espanhol, e até já dei treinamento.</p>
-
 <h2>Outras Habilidades e Interesses</h2>
 
 <p>Sou um profissional que possui uma grande habilidade de aprendizado rápido e facilmente me adapto a diferentes áreas. Sou curioso e multidisciplinar, sempre buscando adquirir novos conhecimentos e acompanhar as últimas tendências tecnológicas. Gosto muito de usar o GPT para potencializar minhas habilidades e conhecimentos.</p>
