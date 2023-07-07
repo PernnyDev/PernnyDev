@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PernnyDev&theme=radical"/>
 </div>
 
-![Snake animation](https://github.com/lucasfariadev/lucasfariadev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lucasfariadev/PernnyDev/blob/output/github-contribution-grid-snake.svg)
 
 ## Languages and tool
 
