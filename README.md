@@ -33,15 +33,13 @@
 
 # Perfil
 
-Olá! Sou um Engenheiro Mecânico com experiência em desenvolvimento de software multiplataforma e apaixonado por soluções de transformação digital. Atualmente, sou estudante de Desenvolvimento de Software Multiplataforma na FATEC - COTIA, onde tenho a oportunidade de aprimorar minhas habilidades técnicas.
-
 <div align="center">
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-nascimento-ribeiro-57a29b136/">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&langs_count=8&theme=radical"/>
   </a>
 </div>
 
-## Habilidades
+## Languages and tool
 
 <div align="center">
   <img align="center" alt="Lurf-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
@@ -51,16 +49,8 @@ Olá! Sou um Engenheiro Mecânico com experiência em desenvolvimento de softwar
   <img align="center" alt="Lurf-Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
 </div>
 
-## Experiência
-
-Tenho experiência em desenvolvimento de projetos na Power Platform, onde utilizei ferramentas como Power Apps, Power Automate e Power BI para trazer soluções de transformação digital. Além disso, possuo experiência em projetos, inspeção, produção e montagem em indústrias de processo e fabricação, especialmente no setor alimentício.
-
-## Outras Habilidades e Interesses
-
-Sou um profissional que possui uma grande habilidade de aprendizado rápido e facilmente me adapto a diferentes áreas. Sou curioso e multidisciplinar, sempre buscando adquirir novos conhecimentos e acompanhar as últimas tendências tecnológicas.
-
 <div align="center">
-  <a href="mailto:seuemail@gmail.com">
+  <a href="vinicius_eng_mec@outlook.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-nascimento-ribeiro-57a29b136/">
