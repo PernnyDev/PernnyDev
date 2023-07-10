@@ -1,7 +1,7 @@
 # GitVision
 
 <div align="center">
-  <a href="[https://github.com/lucasfariadev](https://github.com/PernnyDev)">
+  <a href="[https://github.com/PernnyDev](https://github.com/PernnyDev)">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PernnyDev&theme=radical"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PernnyDev&theme=radical"/>
 </div>
