@@ -52,8 +52,8 @@
 <h2>Desenvolvimento de Software</h2>
 
 <ul>
-  <li><strong>Front-End:</strong> HTML, CSS, Bootstrap, JavaScript, JQuery</li>
-  <li><strong>Back-End:</strong> Python, MySQL, Java</li>
+  <li><strong>Front-End:</strong> HTML, CSS, Bootstrap, JavaScript, JQuery.</li>
+  <li><strong>Back-End:</strong> Python, MySQL, Java.</li>
   <li><strong>Ferramentas e Plataformas:</strong> Power Apps, Power Automate, Power BI, Power Virtual Agents, Sharepoint, Dataverse, Office 365. Conhecimentos em Power Pages, AI, Machine Learning e outras ferramentas Microsoft.</li>
 </ul>
 
