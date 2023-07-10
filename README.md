@@ -65,7 +65,7 @@
 
 <p>Sou um profissional que possui uma grande habilidade de aprendizado rápido e facilmente me adapto a diferentes áreas. Sou curioso e multidisciplinar, sempre buscando adquirir novos conhecimentos e acompanhar as últimas tendências tecnológicas. Gosto muito de usar o GPT para potencializar minhas habilidades e conhecimentos.</p>
 
-<p>Sinta-se à vontade para entrar em contato comigo para oportunidades de colaboração e aprendizado! Meu <a href="https://www.linkedin.com/in/vin%C3%ADcius-nascimento-ribeiro-57a29b136/">LinkedIn</a></p>
+<p>Sinta-se à vontade para entrar em contato comigo para oportunidades de colaboração e aprendizado! </p>
 <div align="center">
   <br>
   <a href="mailto:vinicius_eng_mec@outlook.com">
