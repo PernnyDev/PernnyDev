@@ -68,6 +68,12 @@
 <p>Sinta-se à vontade para entrar em contato comigo para oportunidades de colaboração e aprendizado! </p>
 <div align="center">
   <br>
+  <a href="https://contate.me/pernnydev">
+   <img src="	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+  </a>
+  <a href="https://discord.com/pernny">
+   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+  </a>
   <a href="mailto:vinicius_eng_mec@outlook.com">
    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
   </a>
