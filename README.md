@@ -45,7 +45,7 @@
 <h2>Habilidades</h2>
 
 <ul>
-  <li><strong>Engenharia Mecânica:</strong> Elaboração de projetos de engenharia e instalações industriais, layouts, dimensionamento e detalhamento de máquinas, equipamentos, estruturas metálicas e tubulações. Familiaridade com instalações de plantas de processo e mecânica dos fluidos em geral, cálculos térmicos, refrigeração e climatização. Análises por CAE. Gerenciamento de contrato.</li>
+  <li><strong>Engenharia Mecânica:</strong> Elaboração de projetos e orçamentos de engenharia e instalações industriais, layouts, dimensionamento e detalhamento de máquinas, equipamentos, estruturas metálicas, equipamentos de elevação e tubulações. Familiaridade com instalações de plantas de processo e mecânica dos fluidos em geral, cálculos estruturais, cálculos térmicos, refrigeração e climatização. Análises por CAE. Gerenciamento de contrato.</li>
   <li><strong>Software de Engenharia:</strong> Experiência em ferramentas como AutoCAD, SolidWorks, Inventor e SolidWorks Simulation para o detalhamento e cálculo de projetos.</li>
 </ul>
 
@@ -59,7 +59,7 @@
 
 <h2>Experiência</h2>
 
-<p>Tenho experiência em desenvolvimento de projetos na <em>Power Platform</em>, onde utilizei ferramentas como Power Apps, Power Automate e Power BI para trazer soluções de transformação digital, utilizando metodologias ágeis com o SCRUM. Além disso, possuo experiência em projetos, inspeção, produção e montagem em indústrias de processo e fabricação, especialmente no setor alimentício.</p>
+<p>Tenho experiência em desenvolvimento de projetos na <em>Power Platform</em>, onde utilizei ferramentas como Power Apps, Power Automate e Power BI para trazer soluções de transformação digital, utilizando metodologias ágeis como SCRUM e Kanban. Além disso, possuo experiência em projetos, orçamentos, inspeção, produção e montagem em indústrias de processo e fabricação, especialmente no setor alimentício, refrigeração ,elevadores e elevação de carga.</p>
 
 <h2>Outras Habilidades e Interesses</h2>
 
