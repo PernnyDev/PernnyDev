@@ -40,7 +40,7 @@
 
 <h2>Perfil</h2>
 
-<p>Olá! Sou um <strong>Engenheiro Mecânico</strong> com experiência em desenvolvimento de software multiplataforma e apaixonado por soluções de transformação digital. Atualmente, sou estudante de <em>Desenvolvimento de Software Multiplataforma</em> na <strong>FATEC - COTIA</strong>, onde tenho a oportunidade de aprimorar minhas habilidades técnicas, com uma gama bem grande de plataformas e linguagens.</p>
+<p>Olá! Sou um <strong>Engenheiro Mecânico</strong> com experiência em desenvolvimento de software multiplataforma e apaixonado por soluções de transformação digital. Atualmente, sou estudante de <em>Desenvolvimento de Software Multiplataforma</em> na <strong>FATEC - COTIA</strong>, onde tenho a oportunidade de aprimorar minhas habilidades técnicas, com uma gama bem grande de plataformas e linguagens de programação front-end, back-end, frameworks.</p>
 
 <h2>Habilidades</h2>
 
