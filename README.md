@@ -12,7 +12,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PernnyDev/PernnyDev/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+_generated with [PernnyDev/snk](https://github.com/PernnyDev/snk)_
 
 
 
