@@ -15,6 +15,9 @@
 _generated with [PernnyDev/snk](https://github.com/PernnyDev/snk)_
 
 
+![snake animation](https://github.comPernnyDev/PernnyDev/blob/output/github-contribution-grid-snake2.svg)
+
+
 
 ## Languages and tool
 
