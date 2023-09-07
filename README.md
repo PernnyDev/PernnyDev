@@ -6,18 +6,7 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PernnyDev&theme=radical"/>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PernnyDev/PernnyDev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PernnyDev/PernnyDev/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PernnyDev/PernnyDev/output/github-contribution-grid-snake.svg">
-</picture>
-
-_generated with [PernnyDev/snk](https://github.com/PernnyDev/snk)_
-
-
 ![snake animation](https://github.comPernnyDev/PernnyDev/blob/output/github-contribution-grid-snake2.svg)
-
-
 
 ## Languages and tool
 
