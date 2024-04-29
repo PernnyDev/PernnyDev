@@ -16,8 +16,6 @@
 
 ## Languages and tool
 
-<div align="center">
-
   
 <!-- Prototypes -->
 <img align="left" alt="Pernny-Canva" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
@@ -68,7 +66,7 @@
 
                           
 
-</div>
+
 <p> </p>
 
 <h2>Perfil</h2>
