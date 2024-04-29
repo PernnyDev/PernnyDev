@@ -19,27 +19,51 @@
 <div align="center">
 
   
-  <img align="center" alt="Pernny-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img align="center" alt="Pernny-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-  <img align="center" alt="Pernny-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />     
-  <img align="center" alt="Pernny-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Pernny-Cpp" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> 
-  <img align="center" alt="Pernny-HTML" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="Pernny-CSS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-  <img align="center" alt="Pernny-JavaScript" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Pernny-Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Pernny-Canva" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
-  <img align="center" alt="Pernny-PowerApps" height="60" width="60" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerapps.svg">
-  <img align="center" alt="Pernny-PowerApps" height="60" width="60" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerautomate.svg">
-  <img align="center" alt="Pernny-Automate" height="60" width="60" src="https://powerapps.microsoft.com/images/application-logos/svg/powerbi.svg">
-  <img align="center" alt="Pernny-BI" height="60" width="60" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powervirtualagents.svg">
-  <img align="center" alt="Pernny-PVA" height="60" width="60" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerpages.svg">
-  <img align="center" alt="Pernny-Azure" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-  <img align="center" alt="Pernny-MySQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Pernny-Postg" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="Pernny-VSCode" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
-  <img align="center" alt="Pernny-GitHub" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
-  <img align="center" alt="Pernny-Git" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
+ <!-- Prototypes -->
+<img align="center" alt="Pernny-Canva" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+<img align="center" alt="Pernny-Figma" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+          
+<!-- Frontend -->
+<img align="center" alt="Pernny-HTML" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+<img align="center" alt="Pernny-CSS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+<img align="center" alt="Pernny-JavaScript" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img align="center" alt="Pernny-React" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+
+<!-- Backend -->
+<img align="center" alt="Pernny-Node.js" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+
+<!-- Databases -->
+<img align="center" alt="Pernny-Microsoft SQL Server" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
+<img align="center" alt="Pernny-MongoDB" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+<img align="center" alt="Pernny-MySQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+<img align="center" alt="Pernny-PostgreSQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
+
+<!-- Version Control / Repositories -->
+<img align="center" alt="Pernny-Git" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
+<img align="center" alt="Pernny-GitHub" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
+
+<!-- Low/No-Code -->
+<img align="center" alt="Pernny-PowerApps" height="60" width="60" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerapps.svg">
+<img align="center" alt="Pernny-PowerAutomate" height="60" width="60" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerautomate.svg">
+<img align="center" alt="Pernny-PowerBI" height="60" width="60" src="https://powerapps.microsoft.com/images/application-logos/svg/powerbi.svg">
+<img align="center" alt="Pernny-PowerVirtualAgents" height="60" width="60" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powervirtualagents.svg">
+<img align="center" alt="Pernny-PowerPages" height="60" width="60" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerpages.svg">
+
+<!-- IDEs and Code Editors -->
+<img align="center" alt="Pernny-VSCode" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
+<img align="center" alt="Pernny-Eclipse" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original-wordmark.svg">
+<img align="center" alt="Pernny-PyCharm" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">
+<img align="center" alt="Pernny-IntelliJ" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
+
+<!-- Project Management -->
+<img align="center" alt="Pernny-Jira" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg">
+<img align="center" alt="Pernny-Notion" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg">
+
+<!-- Other Tools -->
+<img align="center" alt="Pernny-Insomnia" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original-wordmark.svg">
+<img align="center" alt="Pernny-Azure" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+                          
+                          
 
          
     
