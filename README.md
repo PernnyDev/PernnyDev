@@ -17,7 +17,7 @@
 ## Languages and tool
 
   
-<!-- Prototypes -->
+<p><!-- Prototypes -->
 <img align="left" alt="Pernny-Canva" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
 <img align="left" alt="Pernny-Figma" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 
@@ -63,11 +63,8 @@
 <img align="left" alt="Pernny-Azure" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
 <img align="left" alt="Pernny-Insomnia" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg">  
 <img align="left" alt="Pernny-Postman" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
-
-                          
-
-
-<p> </p>
+</p>
+ 
 
 <h2>Perfil</h2>
 
