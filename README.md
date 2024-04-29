@@ -17,6 +17,11 @@
 ## Languages and tool
 
 <div align="center">
+
+  
+  <img align="center" alt="Pernny-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img align="center" alt="Pernny-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+  <img align="center" alt="Pernny-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />     
   <img align="center" alt="Pernny-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Pernny-Cpp" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> 
   <img align="center" alt="Pernny-HTML" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
@@ -59,8 +64,9 @@
 <h2>Desenvolvimento de Software</h2>
 
 <ul>
-  <li><strong>Front-End:</strong> HTML, CSS, Bootstrap, JavaScript, JQuery.</li>
-  <li><strong>Back-End:</strong> Python, MySQL, Java.</li>
+  <li><strong>Front-End:</strong> HTML, CSS, Bootstrap, JavaScript, JQuery, React.</li>
+  <li><strong>Back-End:</strong> Python, MySQL, Java, NodeJS.</li>
+  <li><strong>DataBase:</strong> MySQL, MongoDB, PostgreSQL, MSSQL.</li>
   <li><strong>Ferramentas e Plataformas:</strong> Power Apps, Power Automate, Power BI, Power Virtual Agents, Sharepoint, Dataverse, Office 365. Conhecimentos em Power Pages, AI, Machine Learning e outras ferramentas Microsoft.</li>
 </ul>
 
