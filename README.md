@@ -64,7 +64,7 @@
 <img align="left" alt="Pernny-Insomnia" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg">  
 <img align="left" alt="Pernny-Postman" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
 </p>
- <br>
+ <hr>
 
 <h2>Perfil</h2>
 
